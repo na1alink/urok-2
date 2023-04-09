@@ -65,7 +65,7 @@ body {
   background: linear-gradient(90deg, #e06876 0%, #f4b98f 100%);
 }
 .hold {
-  border: 2px solid rebeccapurple;
+  border: 2px solid rgb(138, 69, 207);
 }
 .hide {
   display: none;
